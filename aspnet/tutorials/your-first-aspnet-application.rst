@@ -117,7 +117,7 @@ You will define a class for each in the *Models* folder within **Solution Explor
 
 .. note:: You can put model classes anywhere in your project. The *Models* folder is just a convention.
 
-Right-click the *Models* folder and select **Add** > **New Item**. In the **Add New Item** dialog, select the **Class** template. In the **Name** edit box, type "Author.cs" and click **OK**. 
+Right-click the *Models* folder and select **Add** > **New Item**. In the **Add New Item** dialog, select the **Class** template. In the **Name** edit box, type "Author.cs" and click **Add**. 
 
 .. image:: your-first-aspnet-application/_static/15-add-new-item.png
 
