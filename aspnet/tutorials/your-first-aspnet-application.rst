@@ -248,7 +248,7 @@ Run each of the following commands from the **Command Prompt**:
 	
 The .NET Version Manager (**dnvm**) is a set of command line utilities that are used to update and configure .NET Runtime. 
 
-`DNX <http://docs.asp.net/en/latest/dnx/overview.html>`_ stands for the .NET Execution Environment. The ``ef`` command is specificed in the *project.json* file of your project. For more information about ``dnvm``, ``dnu``, and ``dnx``, see `DNX Overview <http://docs.asp.net/en/latest/dnx/overview.html>`_.
+`DNX <http://docs.asp.net/en/latest/dnx/overview.html>`_ stands for the .NET Execution Environment. The ``ef`` command is specified in the *project.json* file of your project. For more information about ``dnvm``, ``dnu``, and ``dnx``, see `DNX Overview <http://docs.asp.net/en/latest/dnx/overview.html>`_.
 
 The "``add Initial``" command creates a migration named "Initial" that adds code to the project, allowing EF to update the database schema. The ``update`` command creates the actual database. After you run this command, the *Migrations* folder of your project will be updated as follows:
 
